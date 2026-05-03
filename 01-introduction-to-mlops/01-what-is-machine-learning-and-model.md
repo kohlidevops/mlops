@@ -11,7 +11,9 @@ You don’t give the child rules like:
 Instead, you show examples:
 
 “This is an apple 🍎”
+
 “This is a banana 🍌”
+
 “This is a mango 🥭”
 
 After seeing many examples, the child automatically understands patterns.
