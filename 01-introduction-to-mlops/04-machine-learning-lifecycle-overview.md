@@ -124,7 +124,7 @@ Examples:
 
 👉 Problem → Data → Clean → Features → Model → Train → Evaluate → Tune → Deploy → Monitor → Retrain
 
-### 💡 Connect to Your DevOps Brain3
+### 💡 Connect to Your DevOps Brain
 
 | DevOps          | ML Lifecycle       |
 | --------------- | ------------------ |
