@@ -69,6 +69,7 @@ Flow:
 ### 🔥 Key Idea (Very Important)
 
 👉 In DevOps → code doesn’t change automatically
+
 👉 In ML → data keeps changing
 
 So:
@@ -87,6 +88,7 @@ Spam Detection Model
 Why?
 
 👉 New spam patterns came
+
 👉 Model didn’t learn them
 
 ### 🧠 What MLOps Does Here
