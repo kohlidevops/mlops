@@ -10,6 +10,7 @@
 
 > Not reliable, not repeatable, not scalable
 
+---
 ## 🔁 What MLOps Engineers Change
 
 👉 They automate everything so no manual work is needed.
@@ -32,6 +33,7 @@ Training runs automatically when:
 
 > No need to click “Run” — system does it
 
+---
 ### 🖥️ 2. Same Environment Every Time
 
 Before:
@@ -49,6 +51,7 @@ After:
 
 > No more “works on my machine” problem
 
+---
 ### 🧹 3. Clean Training Every Time
 
 Before:
@@ -65,6 +68,7 @@ After:
 
 > Results are clean and trustworthy
 
+---
 ### 🤖 4. Model is Created Automatically
 
 Before:
@@ -82,6 +86,7 @@ After:
 
 > No manual sharing, no confusion
 
+---
 ### 📊 5. Everything is Tracked
 
 Before:
@@ -103,6 +108,7 @@ Every model linked to:
 
 > Full history is available
 
+---
 ### 🚨 6. Errors Found Early
 
 Before:
@@ -121,6 +127,7 @@ CI fails immediately if:
 
 > Fix issues early, not after damage
 
+---
 ### 🔥 Final Simple Understanding
 
 👉 MLOps Engineers:
