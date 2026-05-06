@@ -1,4 +1,4 @@
-# 🔁 How MLOps Engineers Help ML Engineers (Easy Version)
+# 🔁 How MLOps Engineers Help ML Engineers
 
 👉 ML Engineer builds:
 
