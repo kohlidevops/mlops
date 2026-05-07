@@ -1,6 +1,7 @@
 # 🧠 Data Versioning – Why Git Isn’t Enough (Simple)
 
 👉 Git is great for code
+
 👉 But ML needs to handle huge data
 
 > That’s why Git alone is not enough
@@ -109,6 +110,7 @@ Tools like:
 ### 🔥 Final Simple Understanding
 
 👉
+
 Git = good for code
 
 ML = needs smart data tracking
@@ -117,6 +119,7 @@ ML = needs smart data tracking
 ### ⚡ One-Line Memory
 
 👉
+
 Git handles small text files
 
 ML needs tools for big, changing data
