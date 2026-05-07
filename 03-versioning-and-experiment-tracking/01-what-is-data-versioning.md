@@ -111,15 +111,13 @@ Tools like:
 
 👉
 
-Git = good for code
-
-ML = needs smart data tracking
+- Git = good for code
+- ML = needs smart data tracking
 
 ---
 ### ⚡ One-Line Memory
 
 👉
 
-Git handles small text files
-
-ML needs tools for big, changing data
+- Git handles small text files
+- ML needs tools for big, changing data
