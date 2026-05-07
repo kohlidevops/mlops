@@ -1,4 +1,4 @@
-# 🧠 What is DVC (Easy Understanding)
+# 🧠 What is DVC
 
 👉 Think like this:
 
